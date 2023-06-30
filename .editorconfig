@@ -1,4 +1,4 @@
 root = true;
 [*]
 indent_style = space
-indent_size = 5
+indent_size = 2
